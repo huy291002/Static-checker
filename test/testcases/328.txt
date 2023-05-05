@@ -1,0 +1,20 @@
+// a: array[4] of boolean= {true,false,true,true};
+                   // b: array[2,3] of integer = {12,2,1,1,3,4};
+                    a: integer;
+                    d: integer;
+                    e: integer = a+1;
+                    f: float;
+                    goo: function integer(inherit f: float, out d: string) inherit bar{
+                        super(e,f);
+                    }
+                    bar: function string(a_param: integer, d: string) inherit foo{
+                        super(d,e, a);
+                        a = a+1;
+                    }
+                    foo: function integer(inherit c: integer,  a : integer, param: integer){
+                       a = a+1;
+                    }
+                    
+                    
+                    // d: float;
+                    

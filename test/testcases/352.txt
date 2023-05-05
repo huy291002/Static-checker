@@ -1,0 +1,14 @@
+
+
+                    a: float = foo(1,"huy");
+                    f: float = foo(1,"true");
+                    foo: function auto(f: auto, h: float) inherit goo{
+                        super(f,h);
+                    }
+
+                    goo: function integer(f: string, e: float){
+                        f = f+1;
+                    }
+                    main: function void(){}
+                    e: auto ;
+                    

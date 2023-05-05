@@ -1,0 +1,6 @@
+
+                    a: integer = foo(1,"huy");
+                    c: float = foo(1,"true");
+                    foo: function auto(a: integer, b: string){}
+                    e: auto;
+                    

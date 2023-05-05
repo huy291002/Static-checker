@@ -1,0 +1,6 @@
+a,b: integer = 2, 3;
+                    // c: integer = 2.1;
+                    // c = a + 1;
+                    e: float = a + 1;
+                    d: auto;
+                    

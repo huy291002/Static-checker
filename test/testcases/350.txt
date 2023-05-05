@@ -1,0 +1,6 @@
+
+                    a: integer = foo(1, "huy");
+                    foo: function integer(a: auto, b: string){}
+                    main: function void(){}
+                    e: auto;
+                    

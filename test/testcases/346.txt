@@ -1,0 +1,5 @@
+
+                foo: function void (a: integer) {}
+                
+                bar: function void(a: integer, b: string, a:float){}
+                

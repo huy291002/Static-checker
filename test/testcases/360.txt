@@ -1,0 +1,10 @@
+
+        bar: function auto(inherit a:integer, a: string){}
+        foo: function auto(x: float, b: boolean) inherit bar{
+            super(1,"true");
+            }
+        
+        
+
+        //
+        

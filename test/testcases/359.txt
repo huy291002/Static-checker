@@ -1,0 +1,14 @@
+
+        a: string;
+        y: float;
+        huy: string;
+        quan: integer;
+        //_global: array [2] of integer = {1_0, 2_0};
+        bar: function auto (x: float, inherit a: integer, inherit c: auto) {}
+        foo: function void (inherit e: integer, d: string) inherit bar {
+            super(y,quan,huy);
+            a: string;
+            }
+
+        //
+        

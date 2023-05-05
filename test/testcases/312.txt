@@ -1,0 +1,4 @@
+a,b,c: integer = 1 ,2, 2;
+                    d: float;
+                    e: boolean = 1;
+                    

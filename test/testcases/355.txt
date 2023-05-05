@@ -1,0 +1,9 @@
+
+                 a: integer;
+                foo: function auto (a: auto, b: float) inherit bar {  // a: integer in foo()
+                super(1.2+a*2, !true);
+                 }
+                b: string = bar(1_0, !!false);  // Implicit conversion, bar: string
+                bar: function auto (a: auto, b: boolean) {}  // a: float in bar()
+                c: integer = bar(1, 1==true);  // bar: string != integer
+                    

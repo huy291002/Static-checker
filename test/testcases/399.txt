@@ -1,0 +1,19 @@
+// a: array[4] of boolean= {true,false,true,true};
+                   // b: array[2,3] of integer = {12,2,1,1,3,4};
+    
+                    a: integer;
+                    b: integer = a+1;
+    
+                    foo: function integer(inherit c: integer,  d : integer, param: integer){
+                       a = a+1;
+                    }
+                    d: function string(a_param: integer, d: string) inherit foo{
+                        super(a,b);
+                    }
+                    foo: function float(e: integer){
+                        a = a+1;
+                    }
+    
+    
+                    // d: float;
+                    

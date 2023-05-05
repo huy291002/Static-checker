@@ -1,0 +1,13 @@
+
+        foo: function auto(x: float, d: boolean) inherit bar{
+            preventDefault();
+            a: integer;
+            if (a == 1) {
+            a = a+1;
+            }
+            else{continue;}
+        }
+        bar: function auto(inherit a:integer, inherit b: string){}
+
+        //
+        

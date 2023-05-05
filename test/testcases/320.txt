@@ -1,0 +1,8 @@
+a: array[4] of boolean= {true,false,true,true};
+                   b: array[2,3] of integer = {12,2,1,1,3,4};
+                    
+                    huy: auto = 2;
+                    foo: float = 2+huy;
+                    hi: boolean;
+                    foo: integer;
+                    

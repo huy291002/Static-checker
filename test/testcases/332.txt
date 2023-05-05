@@ -1,0 +1,16 @@
+// a: array[4] of boolean= {true,false,true,true};
+                   // b: array[2,3] of integer = {12,2,1,1,3,4};
+                    a: integer;
+                    //e: integer = a+1;
+                    //f: float;
+                    g: string;
+                    inc : function void (out n : integer, f:float) {
+
+                        a: string = "huy";
+                        b: float = "huy";
+                    } //1
+                    foo : function auto (inherit m: float, n: integer){} //2
+
+
+                    // d: float;
+                    

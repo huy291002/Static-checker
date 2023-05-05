@@ -1,0 +1,16 @@
+
+        a: integer = 2;
+        d: boolean ;
+        k: string;
+        foo: function auto(x: float, huy: boolean) inherit bar{ //env =[a,x,huy,hello,b]
+            super(a,k);
+            thien: integer = 2_12;
+            c: boolean = d;
+            e: auto;
+        }
+        bar: function auto(inherit hello: integer, inherit b: string){
+            continue;
+        }
+
+        //
+        

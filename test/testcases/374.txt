@@ -1,0 +1,10 @@
+
+        a: float = 2.0;
+
+        foo: function float(x: auto, d: boolean){
+            return a;
+        
+        }
+
+        //
+        

@@ -1,0 +1,12 @@
+// a: array[4] of boolean= {true,false,true,true};
+                   // b: array[2,3] of integer = {12,2,1,1,3,4};
+
+                    a: integer;
+                    b: boolean = true;
+                    c: boolean = false;
+                    e: float = b || c;
+                    d: function string(a: integer){
+                        if (n == 0) return 1;
+                    }
+                    d: float;
+                    

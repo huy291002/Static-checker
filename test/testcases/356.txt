@@ -1,0 +1,17 @@
+
+        a: string;
+        //_global: array [2] of integer = {1_0, 2_0};
+        foo: function void (b: integer, d: string) inherit bar {
+            super(b, b+bar(1, 2, d), d::"hello");
+            x: boolean = !!false;
+            y: auto = x && (1_2 > 2.3);
+            while (bar(1, b+1, d)==2) { // Check Boolean condition in While
+                x: auto = a;
+                if (y && !y) {
+                    x: float = x;
+                   // a: auto = _global[0];
+                }
+            }
+        }
+        bar: function auto (x: float, inherit a: integer, inherit c: auto) {}
+        

@@ -1,0 +1,8 @@
+
+        a: string;
+        //_global: array [2] of integer = {1_0, 2_0};
+        foo: function void (inherit d: integer, d: string) inherit bar {
+            }
+
+        //bar: function auto (x: float, inherit a: integer, inherit c: auto) {}
+        

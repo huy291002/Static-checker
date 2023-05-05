@@ -1,0 +1,7 @@
+a: float;
+                    b: integer;
+                    b: function integer(a: string){
+                    a = a+1;
+                    }
+
+                    

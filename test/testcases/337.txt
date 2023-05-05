@@ -1,0 +1,7 @@
+
+
+        foo : function auto (inherit n: float, b: integer){} //2
+        inc : function void (out n : integer, a:float) inherit thien{} //1
+        thien: integer;
+        huy: float;
+        

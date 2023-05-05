@@ -1,0 +1,5 @@
+
+                    foo: function void (a: integer) inherit bar{}
+                    bar: function void (inherit a:integer) {}
+                    main: function void(){}
+                    

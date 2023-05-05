@@ -1,0 +1,10 @@
+
+                    a: integer = foo(1,"huy");
+                    f: auto = foo(1,"true");
+                    foo: function integer(a: auto, b: string){}
+                    goo: function integer(f: string, e: float){
+                        f = f+1;
+                    }
+                    main: function void(){}
+                    e: auto = 2;
+                    

@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(c, IntegerType, FuncCall(bar, [IntegerLit(1), BinExpr(==, IntegerLit(1), BooleanLit(True))]))

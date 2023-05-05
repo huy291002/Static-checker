@@ -1,0 +1,9 @@
+a: integer;
+                    b: float;
+                    c: float;
+                    main: function void(){
+                        c = a + b;
+                        e:auto;
+                        }
+                    
+                    

@@ -1,0 +1,10 @@
+
+        foo: function auto(x: float, d: boolean) inherit bar{
+            preventDefault();
+            a: string;
+            e: auto;
+            }
+        bar: function auto(inherit a:integer, inherit b: string){}
+    
+        //
+        

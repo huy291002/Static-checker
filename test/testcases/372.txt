@@ -1,0 +1,24 @@
+
+        a: float = 2.0;
+
+        foo: function auto(x: auto, d: boolean) inherit bar{
+            preventDefault();
+            a: string = "huy";
+            c: boolean = true;
+            if (d ==  c){
+                a: boolean = d;
+                x = a;
+
+            }
+            else{
+                a: integer = 1;
+                c = c+1;
+            }
+
+        }
+        bar: function auto(inherit a:integer, inherit b: string){
+            continue;
+        }
+
+        //
+        

@@ -1,0 +1,12 @@
+// a: array[4] of boolean= {true,false,true,true};
+                   // b: array[2,3] of integer = {12,2,1,1,3,4};
+
+                    a: integer;
+                    b: boolean = true;
+                    c: boolean = false;
+                    d: float ;
+                    d: function string(a_param: integer, inherit d: string, d: float){
+                        if (n == 0) return 1;
+                    }
+                    d: float;
+                    

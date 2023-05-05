@@ -1,0 +1,12 @@
+
+                    //a: float = foo(1,"huy");
+                    //f: float = foo(1,"true");
+                    goo: function integer(f: auto, e: float){
+                        f = f+1;
+                    }
+                    foo: function auto(f: integer, h: float) inherit goo{
+                        super(f,h);
+                    }
+                    main: function void(){}
+                    e: auto ;
+                    
